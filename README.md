@@ -1,56 +1,58 @@
-# 👨‍💻 Hi there, I'm Ansary Mahmoud 
-### Senior ICT Educator | Senior Robotics Specialist | Full-stack Developer
+# 👨‍💻 Ansary Mahmoud | Senior EdTech Expert & Full-stack Architect
+### Bridging the Gap Between Advanced Engineering and Modern Pedagogy
 
 <p align="left">
   <img src="https://img.shields.io/badge/Experience-14+_Years-B9935E?style=for-the-badge&logo=expert-city&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-6+_Years-007ACC?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--stack-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-6+_Years_Expertise-007ACC?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Architecture-Enterprise_Level-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ---
 
-## 📖 About Me
-[cite_start]I am an **Innovative ICT Educator and Development Specialist** with a robust background in **Software Engineering** and **STEM Education**[cite: 11]. [cite_start]With 14+ years of experience in the **Egyptian Ministry of Education**, I bridge the gap between technical complexity and educational clarity[cite: 32, 33]. 
-
-[cite_start]My expertise lies in designing and implementing advanced programming curricula (Python, JS, Arduino C) and integrating **IoT technologies** like **ESP32** and **ESP8266** into modern learning environments[cite: 12, 28]. 
+## 🚀 Executive Summary
+[cite_start]Highly accomplished **ICT Educator** and **Systems Architect** with a 14-year career at the **Egyptian Ministry of Education**. [cite_start]I specialize in developing high-performance software solutions and designing cutting-edge **STEM/Robotics** curricula[cite: 11, 28]. [cite_start]My mission is to empower the next generation by integrating **Artificial Intelligence**, **IoT**, and **Full-stack Development** into the educational core[cite: 12, 14].
 
 ---
 
-## 🚀 Career Highlights & Achievements
-- [cite_start]🏫 **EdTech Leadership:** Delivering the national ICT curriculum for 14 years and spearheading digital transformation at the Ministry of Education[cite: 33, 34, 35].
-- 🤖 **Robotics Mastery:** Designed a comprehensive robotics syllabus; [cite_start]Mentor for **NASA Space Apps Challenge**, **IEEE**, and **ISEF**.
-- [cite_start]🛠️ **System Architecture:** Architected and deployed large-scale solutions including **ERP-X** (Business Suite), **EDU-X** (LMS), and **Otlob-X** (Delivery App)[cite: 13, 18, 19].
-- [cite_start]🎓 **Mentorship:** Trained hundreds of students and teachers in coding, AI (using **PictoBlox**), and **Microsoft Office 365**[cite: 23, 30, 42].
+## 🤖 Robotics & AI Leadership (6+ Years)
+[cite_start]*Specialized in transforming theoretical concepts into functional robotic systems.* [cite: 26, 27]
+
+- [cite_start]**End-to-End Curriculum Design:** Developed a comprehensive 6-year syllabus that progresses from block-based logic to advanced hardware-software integration.
+- [cite_start]**AI & Machine Learning:** Expert in teaching AI fundamentals through **PictoBlox**, focusing on computer vision and neural network concepts for young innovators[cite: 12, 30].
+- [cite_start]**Industrial IoT (IIoT):** Advanced implementation of **ESP32**, **ESP8266**, and **Arduino** frameworks for smart automation and sensor networks[cite: 28, 54].
+- [cite_start]**Elite Mentorship:** Lead mentor for global competitions including **NASA Space Apps Challenge**, **IEEE**, and **ISEF**, focusing on sustainable engineering solutions.
 
 ---
 
-## 🛠️ Technical Arsenal
-### **Programming & Web Development**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🛠️ Enterprise Software Engineering
+[cite_start]*Building scalable digital ecosystems for business and education.* [cite: 13, 16]
 
-### **Robotics, IoT & AI**
-- [cite_start]**Hardware:** Arduino, ESP32, ESP8266, Sensor Integration[cite: 54].
-- [cite_start]**AI/Logic:** PictoBlox, Scratch, Arduino IDE[cite: 55].
-- [cite_start]**Concepts:** STEM Pedagogy, Project-Based Learning (PBL)[cite: 59].
-
-### **Data & Infrastructure**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- [cite_start]**ERP-X (Enterprise Resource Planning):** A full-scale suite for retail and medical laboratories, featuring advanced inventory management and real-time operational analytics[cite: 18].
+- [cite_start]**EDU-X (Learning Management System):** A proprietary digital platform designed to modernize classroom interactions and track student performance through scalable Node.js architecture[cite: 19].
+- [cite_start]**Otlob-X (Logistics App):** A high-performance delivery solution engineered for speed and reliability using modern web tech stacks[cite: 19].
+- [cite_start]**Database Excellence:** Architecting robust data layers using **MySQL** and **SQLite** for high-availability systems[cite: 20, 53].
 
 ---
 
-## 📂 Featured Enterprise Projects
-- [cite_start]**ERP-X:** A massive management system for retail and medical labs, optimizing operational data[cite: 18].
-- [cite_start]**EDU-X:** A scalable digital platform for integrated classroom management and LMS[cite: 19].
-- [cite_start]**Otlob-X:** A high-performance delivery application engineered with Node.js[cite: 19].
+## 🧰 The Technical Arsenal
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Robotics/IoT** | [cite_start]Arduino C, ESP32, ESP8266, Sensor Integration, Circuit Design [cite: 28, 54] |
+| **Back-end** | [cite_start]Node.js, Python (Specialized in Educational Logic), Express [cite: 19, 51, 57] |
+| **Front-end** | [cite_start]JavaScript (ES6+), HTML5, CSS3, Tailwind CSS [cite: 19, 23, 51, 52] |
+| **Education Tech** | [cite_start]PictoBlox AI, Scratch, Microsoft Office 365, STEM Pedagogy [cite: 30, 55, 59] |
+| **DevOps/Tools** | [cite_start]Git, GitHub, VS Code, Database Schema Optimization [cite: 20, 52] |
 
 ---
 
-## 📊 GitHub Analytics
+## 🎓 Educational Foundation
+- **Bachelor of Educational Technology and Information** | [cite_start]Al-Azhar University[cite: 45, 46].
+- [cite_start]**Grade:** **Very Good** (Class of 2011)[cite: 47, 48].
+- [cite_start]**Focus:** Instructional design and digital content development for modern learning environments[cite: 49].
+
+---
+
+## 📈 Impact & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ansary184&show_icons=true&theme=gold&title_color=B9935E&icon_color=8C6A3E&border_radius=10" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansary184&layout=compact&theme=gold&title_color=B9935E&border_radius=10" width="48%" />
@@ -58,12 +60,12 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect for Collaboration
 - [cite_start]🌐 **Portfolio:** [ansary184.github.io](https://ansary184.github.io) [cite: 9]
 - [cite_start]💼 **LinkedIn:** [linkedin.com/in/ansary-mahmoud](https://linkedin.com/in/ansary-mahmoud) [cite: 10]
-- [cite_start]📧 **Email:** ansary184@gmail.com [cite: 9]
-- [cite_start]📍 **Based in:** Qena, Egypt [cite: 3]
+- [cite_start]📧 **Email:** [ansary184@gmail.com](mailto:ansary184@gmail.com) [cite: 9]
+- [cite_start]📍 **Location:** Qena, Egypt [cite: 3]
 
 <p align="center">
-  <i>"Technology is not just a tool; it's a bridge to the future."</i>
+  <i>"Architecture is not just building; it's designing the logic of tomorrow."</i>
 </p>
