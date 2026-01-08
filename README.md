@@ -1,36 +1,41 @@
 # Hi there, I'm Ansary Mahmoud 👋 
 ### Senior Robotics Educator & Full-stack Developer
 
-[cite_start]I am an Innovative **ICT Educator** and **Development Specialist** with over 14 years of experience in the Egyptian Ministry of Education[cite: 11, 33]. [cite_start]I specialize in bridging the gap between complex software engineering and educational technology[cite: 11, 35].
+<p align="left">
+  <img src="https://img.shields.io/badge/Robotics-6+ Years-amber?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--stack-Developer-blue?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-PictoBlox-red?style=for-the-badge&logo=pypy&logoColor=white" />
+</p>
 
-- [cite_start]🤖 **Robotics Expert:** 6+ years designing curricula for Arduino, ESP32, and AI with PictoBlox[cite: 12, 28, 30].
-- [cite_start]💻 **Full-stack Architect:** Developer of **ERP-X** (Business Suite) and **EDU-X** (LMS)[cite: 13, 18, 19].
-- [cite_start]🚀 **Mentor:** Coaching teams for **NASA Space Apps**, **IEEE**, and **ISEF**[cite: 14, 29, 31].
+I am an Innovative **ICT Educator** and **Development Specialist** with over 14 years of experience. I specialize in bridging the gap between software engineering and educational technology through robotics and AI.
 
----
-
-### 🛠️ Technical Arsenal
-- [cite_start]**Languages:** Python, JavaScript (Node.js), Arduino C, HTML5, CSS3[cite: 51].
-- [cite_start]**Robotics & IoT:** Arduino, ESP32, ESP8266, PictoBlox, AI/ML[cite: 54, 55].
-- [cite_start]**Frameworks & Tools:** Tailwind CSS, Git, GitHub, VS Code[cite: 52].
-- [cite_start]**Databases:** MySQL, SQLite[cite: 53].
+- 🤖 **Robotics Master:** 6+ years designing advanced curricula for Arduino, ESP32, and AI.
+- 💻 **Software Architect:** Creator of **ERP-X** (Business Suite) and **EDU-X** (LMS).
+- 🚀 **Mentor:** Coaching teams for **NASA Space Apps**, **IEEE**, and **ISEF**.
 
 ---
 
-### 📂 Featured Systems
-- [cite_start]**ERP-X:** A comprehensive management system for retail and medical labs[cite: 18].
-- [cite_start]**EDU-X:** A scalable digital platform for integrated classroom management.
-- [cite_start]**Otlob-X:** A high-performance delivery application built with Node.js.
+### 🛠️ Technical Stack
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (Node.js), Arduino C, HTML5, CSS3 |
+| **Robotics & IoT** | Arduino, ESP32, ESP8266, PictoBlox, Sensor Integration |
+| **Tools & DB** | Git, GitHub, VS Code, MySQL, SQLite |
+| **EdTech** | STEM Pedagogy, Scratch, Microsoft Office 365 |
 
 ---
 
 ### 📈 GitHub Stats
-![Ansary's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansary184&show_icons=true&theme=gold)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansary184&layout=compact&theme=gold)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansary184&show_icons=true&theme=transparent&title_color=B9935E&icon_color=8C6A3E&text_color=333" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansary184&layout=compact&theme=transparent&title_color=B9935E&text_color=333" width="48%" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
-- [cite_start]**LinkedIn:** [linkedin.com/in/ansary-mahmoud](https://linkedin.com/in/ansary-mahmoud) [cite: 10]
-- [cite_start]**Portfolio:** [ansary184.github.io](https://ansary184.github.io) 
-- [cite_start]**Email:** ansary184@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/ansary-mahmoud"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ansary184.github.io"><img src="https://img.shields.io/badge/Portfolio-Personal-amber?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:ansary184@gmail.com"><img src="https://img.shields.io/badge/Email-ansary184@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
